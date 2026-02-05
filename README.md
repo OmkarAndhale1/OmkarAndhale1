@@ -7,7 +7,7 @@ NHITM | Mumbai University | Class of 2028
 
 <h3 align="center">
   
-![GitHub followers](https://img.shields.io/github/followers/OmkarAndhale?style=social)
+![GitHub followers](https://img.shields.io/github/followers/omkarandhale01-collab?style=social)
 
 </h3>
 
@@ -20,6 +20,13 @@ NHITM | Mumbai University | Class of 2028
 - ☕ Strong interest in **Java & Full Stack Development**  
 - 🤖 Curious about **Artificial Intelligence** and real-world problem solving  
 - 📚 Actively learning and practicing **DSA, Web Development, and Backend Technologies**
+
+---
+
+## 📁 GitHub
+
+Check out my repositories and ongoing work 👇  
+🔗 https://github.com/omkarandhale01-collab
 
 ---
 
@@ -36,9 +43,8 @@ NHITM | Mumbai University | Class of 2028
 ### 🌐 Java Full Stack (Learning & Exploring)
 - Core Java  
 - Object-Oriented Programming (OOPs)  
-- JDBC (Basics)  
-- SQL & Database Connectivity  
-- Frontend with HTML & CSS  
+- SQL & Database Fundamentals  
+- Frontend basics with HTML & CSS  
 - Backend fundamentals with **Node.js**
 
 ### 🧰 Tools & Platforms
@@ -70,6 +76,10 @@ NHITM | Mumbai University | Class of 2028
 ---
 
 ## 💼 Connect With Me
+
+<a href="https://github.com/omkarandhale01-collab">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/omkar-andhale-3a75b9333">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
