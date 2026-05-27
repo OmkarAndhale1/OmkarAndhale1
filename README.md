@@ -1,94 +1,196 @@
-<h1 align="center">Hello Connections 👋</h1>
-<h3 align="center">
-I'm Omkar Andhale <br>
-Engineering Student | Aspiring Java Full Stack Developer | AI • Web Dev • DSA <br>
-NHITM | Mumbai University | Class of 2028
-</h3>
-
-<h3 align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/omkarandhale01-collab?style=social)
-
-</h3>
-
----
-
-## 🚀 About Me
-
-- 🎓 Engineering Student at **New Horizon Institute of Technology and Management**, Mumbai University  
-- 💡 Passionate about **building scalable applications** and strengthening core CS fundamentals  
-- ☕ Strong interest in **Java & Full Stack Development**  
-- 🤖 Curious about **Artificial Intelligence** and real-world problem solving  
-- 📚 Actively learning and practicing **DSA, Web Development, and Backend Technologies**
-
----
-
-## 📁 GitHub
-
-Check out my repositories and ongoing work 👇  
-🔗 https://github.com/omkarandhale01-collab
-
----
-
-## 🛠️ Languages & Technologies
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Omkar%20Andhale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-### 🌐 Java Full Stack (Learning & Exploring)
-- Core Java  
-- Object-Oriented Programming (OOPs)  
-- SQL & Database Fundamentals  
-- Frontend basics with HTML & CSS  
-- Backend fundamentals with **Node.js**
+<h3 align="center">
+🚀 Engineering Student | Java Full Stack Developer (Learning) | AI Enthusiast
+</h3>
 
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<h4 align="center">
+💻 Web Development • 🤖 Artificial Intelligence • 🧠 DSA • 🌍 Open Source
+</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/omkarandhale01-collab?style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=omkarandhale01-collab&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+  <i>Passionate about building scalable applications, improving every day, and growing through real-world development 🚀</i>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+# 👨‍💻 About Me
+
+```yaml
+Name: Omkar Andhale
+College: New Horizon Institute of Technology & Management
+University: Mumbai University
+Graduation Year: 2028
+
+Focus Areas:
+  - Java Full Stack Development
+  - Artificial Intelligence
+  - Web Development
+  - Data Structures & Algorithms
+  - Open Source Contribution
+
+Currently Learning:
+  - Advanced Java
+  - Backend Development
+  - Full Stack Development
+  - REST APIs
+  - AI Integrations
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+# ⚡ Tech Stack
+
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css" />
 </p>
 
 ---
 
-## 🎯 Areas of Interest
+## 🌐 Frontend Development
 
-- ☕ Java & Backend Development  
-- 🌐 Web Development  
-- 🤖 Artificial Intelligence  
-- 🧠 Data Structures & Algorithms  
-- 💻 Problem Solving & Logic Building  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,vite" />
+</p>
 
----
-
-## 📌 Currently Focusing On
-- Strengthening **Java & DSA**
-- Learning **Full Stack Development**
-- Exploring **AI concepts**
-- Building a strong GitHub profile 🚀
+* Responsive Web Design
+* Frontend Development
+* UI Development Fundamentals
 
 ---
 
-## 💼 Connect With Me
+## ⚙️ Backend Development
 
-<a href="https://github.com/omkarandhale01-collab">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
 
-<a href="https://www.linkedin.com/in/omkar-andhale-3a75b9333">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:omkarandhale01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+* Backend Fundamentals
+* REST API Basics
+* Server-side Development Learning
 
 ---
 
-_“Success is the sum of small efforts repeated day in and day out.”_ ✨
+## 🗄️ Databases & Backend Services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+</p>
+
+* SQL Fundamentals
+* Firebase Backend Services
+* Supabase Database & Authentication
+* Database Management Concepts
+
+---
+
+## 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
+
+* Git & GitHub
+* VS Code
+* Android Studio
+* Cursor AI
+* Razorpay Integration Basics
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarandhale01-collab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarandhale01-collab&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarandhale01-collab&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omkarandhale01-collab&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+# 🌍 Open Source Journey
+
+## 🚀 GirlScript Summer of Code 2026
+
+* 🌱 Exploring Open Source Collaboration
+* 🛠️ Solving Beginner-Friendly Issues
+* 📚 Learning Real-World Git Workflows
+* 💡 Improving Development Consistency
+
+---
+
+## 📌 Contribution Goals
+
+* Build impactful projects
+* Improve coding & development skills
+* Learn collaborative development
+* Contribute consistently to repositories
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+# 🎯 Current Focus
+
+```diff
++ Java & Object-Oriented Programming
++ Full Stack Development
++ Backend Technologies
++ Artificial Intelligence
++ DSA & Problem Solving
++ Open Source Contributions
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+# 🚀 2026 Goals
+
+* ✅ Build Strong Full Stack Projects
+* ✅ Create Professional Portfolio
+* ✅ Improve Open Source Contributions
+* ✅ Strengthen DSA & Problem Solving
+* ✅ Learn AI Integrations
+* ✅ Prepare for Internships & Hackathons
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+# 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/omkarandhale01-collab">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/omkar-andhale-3a75b9333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:omkarandhale01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+<p align="center">
+✨ <i>"Success is built through consistency, curiosity, and continuous learning."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
