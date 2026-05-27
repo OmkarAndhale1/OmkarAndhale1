@@ -1,14 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1E293B&height=260&section=header&text=Omkar%20Andhale&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,50:0F172A,100:1E40AF&text=Omkar%20Andhale&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=60&descSize=21"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Student+at+NHITM;Building+Modern+Web+Applications;Java+Full+Stack+Developer+(Learning);Artificial+Intelligence+Enthusiast;Backend+Development+%7C+DSA+%7C+Open+Source"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Engineering+Student+at+NHITM;Java+Full+Stack+Developer+(Learning);Artificial+Intelligence+Enthusiast;Backend+Development+%7C+Web+Development;DSA+%7C+Open+Source+Contributor"/>
 
 <br><br>
 
+<a href="https://github.com/OmkarAndhale1">
 <img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&labelColor=020617&color=2563EB"/>
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=OmkarAndhale1&style=for-the-badge&color=2563EB"/>
 
@@ -20,32 +22,31 @@
 
 <div align="center">
 
-Engineering student passionate about building scalable applications,
-exploring Artificial Intelligence, and continuously improving through
-real-world projects and open-source contributions.
+Passionate engineering student focused on building scalable applications,
+exploring modern backend technologies, and growing through real-world development.
 
 </div>
 
 <br>
 
-```yaml id="n9v2pa"
+```yaml id="b8xq2v"
 Name: Omkar Andhale
 Location: Mumbai, India
-College: New Horizon Institute of Technology & Management
+College: NHITM
 University: Mumbai University
-Graduation Year: 2028
+Graduation: 2028
 
-Focus:
+Domains:
   - Java Full Stack Development
-  - Backend Engineering
   - Artificial Intelligence
+  - Backend Engineering
   - Problem Solving & DSA
-  - Open Source Collaboration
+  - Open Source Contribution
 
 Currently Learning:
   - Advanced Java
   - REST APIs
-  - SQL & Database Systems
+  - Database Management
   - Backend Development
   - AI Integrations
 ```
@@ -56,57 +57,21 @@ Currently Learning:
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="400">
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,nodejs,mysql,firebase,supabase,git,github,vscode,androidstudio,vite"/>
 
-### 💻 Languages
+</div>
 
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css"/>
+<br>
 
-</td>
+<div align="center">
 
-<td align="center" width="400">
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,vite"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</td>
-
-<td align="center">
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="2">
-
-### 🧰 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
-
-<br><br>
-
-Git • GitHub • VS Code • Android Studio • Cursor AI
-
-</td>
-</tr>
-</table>
+| Category      | Technologies                            |
+| ------------- | --------------------------------------- |
+| 💻 Languages  | Java • C • Python • JavaScript          |
+| 🌐 Frontend   | HTML • CSS • JavaScript • Vite          |
+| ⚙️ Backend    | Node.js • REST APIs                     |
+| 🗄️ Databases | MySQL • Firebase • Supabase             |
+| 🧰 Tools      | Git • GitHub • VS Code • Android Studio |
 
 </div>
 
@@ -122,11 +87,11 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <br><br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <br><br>
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarAndhale1&theme=tokyonight"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarAndhale1&theme=tokyonight"/>
 
 </div>
 
@@ -138,53 +103,27 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <table>
 <tr>
-<td align="center" width="250">
+<td align="center" width="260">
 
-☕
+### ☕ Java Development
 
-### Java & OOPs
-
-</td>
-
-<td align="center" width="250">
-
-🌐
-
-### Full Stack Development
+OOPs • Backend • APIs
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="260">
 
-🤖
+### 🌐 Full Stack
 
-### Artificial Intelligence
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-⚙️
-
-### Backend Development
+Frontend • Backend • Databases
 
 </td>
 
-<td align="center">
+<td align="center" width="260">
 
-🧠
+### 🤖 Artificial Intelligence
 
-### DSA & Problem Solving
-
-</td>
-
-<td align="center">
-
-🌍
-
-### Open Source
+AI Tools • Integrations
 
 </td>
 </tr>
@@ -194,20 +133,20 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 ---
 
-# 🌍 Open Source Journey
+# 🌍 Open Source
 
 <div align="center">
 
-### 🚀 GirlScript Summer of Code 2026
-
-Learning collaborative development, contributing to repositories,
-and improving consistency through real-world coding experience.
+🚀 Participating in **GirlScript Summer of Code 2026**
+🌱 Exploring collaborative development workflows
+🛠️ Solving beginner-friendly issues
+📚 Learning real-world GitHub contribution practices
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
 <div align="center">
 
@@ -243,14 +182,6 @@ and improving consistency through real-world coding experience.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1E293B&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:0F172A,100:1E40AF"/>
 
 </div>
