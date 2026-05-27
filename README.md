@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=320&color=0:000000,40:0F172A,75:1D4ED8,100:38BDF8&text=Omkar%20Andhale&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=60&descSize=21"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=330&color=0:030712,40:111827,70:1D4ED8,100:38BDF8&text=Omkar%20Andhale&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=60&descSize=22"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Engineering+Student+at+NHITM;Building+Scalable+Applications;Java+Full+Stack+Developer+(Learning);Backend+Development+%7C+Web+Development;Artificial+Intelligence+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Engineering+Student+at+NHITM;Building+Modern+Web+Applications;Java+Full+Stack+Developer+(Learning);Backend+Development+%7C+Artificial+Intelligence;DSA+%7C+Open+Source+Contributor"/>
 
 <br><br>
 
 <a href="https://github.com/OmkarAndhale1">
-<img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&labelColor=020617&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&labelColor=030712&color=2563EB"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=OmkarAndhale1&style=for-the-badge&color=2563EB"/>
@@ -20,11 +20,11 @@
 
 <table>
 <tr>
-<td width="58%">
+<td width="55%">
 
 # 👨‍💻 About Me
 
-```yaml id="l8yq3p"
+```yaml id="3m8vqa"
 Name: Omkar Andhale
 Location: Mumbai, India
 
@@ -33,7 +33,7 @@ Education:
   University: Mumbai University
   Graduation: 2028
 
-Specialization:
+Domains:
   - Java Full Stack Development
   - Backend Engineering
   - Artificial Intelligence
@@ -44,15 +44,15 @@ Currently Learning:
   - Advanced Java
   - REST APIs
   - SQL & Databases
-  - Backend Development
+  - Backend Systems
   - AI Integrations
 ```
 
 </td>
 
-<td width="42%" align="center">
+<td width="45%" align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -62,7 +62,17 @@ Currently Learning:
 
 <div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+</div>
+
 # ⚡ Tech Stack
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,nodejs,mysql,firebase,supabase,git,github,vscode,androidstudio,vite"/>
 
 </div>
 
@@ -74,11 +84,10 @@ Currently Learning:
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript"/>
-
-<br><br>
-
-Java • C • Python • JavaScript
+Java
+C
+Python
+JavaScript
 
 </td>
 
@@ -86,11 +95,10 @@ Java • C • Python • JavaScript
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,vite"/>
-
-<br><br>
-
-HTML • CSS • JavaScript • Vite
+HTML
+CSS
+JavaScript
+Vite
 
 </td>
 
@@ -98,23 +106,19 @@ HTML • CSS • JavaScript • Vite
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<br><br>
-
-Node.js • REST APIs
+Node.js
+REST APIs
+Backend Development
 
 </td>
 
 <td align="center" width="25%">
 
-### 🗄️ Database
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase"/>
-
-<br><br>
-
-MySQL • Firebase • Supabase
+MySQL
+Firebase
+Supabase
 
 </td>
 </tr>
@@ -138,7 +142,7 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 </div>
 
@@ -189,9 +193,9 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 # 🌍 Open Source
 
 * 🚀 GirlScript Summer of Code 2026
-* 🌱 Exploring Collaborative Development
+* 🌱 Collaborative Development
 * 🛠️ Beginner-Friendly Contributions
-* 📚 Real-World GitHub Workflows
+* 📚 GitHub Workflows & PRs
 
 </td>
 </tr>
@@ -201,11 +205,11 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <div align="center">
 
-# 🎯 Goals for 2026
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 </div>
 
-<br>
+# 🎯 Goals for 2026
 
 <div align="center">
 
@@ -232,7 +236,7 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 <div align="center">
 
 <a href="https://github.com/OmkarAndhale1">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/omkarandhale">
@@ -249,6 +253,7 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:020617,40:0F172A,75:1D4ED8,100:38BDF8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=180&section=footer&color=0:030712,40:111827,70:1D4ED8,100:38BDF8"/>
 
 </div>
+
