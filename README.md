@@ -4,19 +4,17 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Engineering+Student+at+NHITM;Building+Modern+Applications;Backend+Development+%7C+Web+Development;Artificial+Intelligence+Enthusiast;Learning+Through+Projects+and+Open+Source"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Engineering+Student+at+NHITM;Building+Modern+Applications;Backend+Development+%7C+Web+Development;Artificial+Intelligence+Enthusiast;Learning+Through+Projects+and+Open+Source"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<table>
-<tr>
-<td width="52%" valign="top">
-
 # 👨‍💻 About Me
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
 I’m an engineering student passionate about building scalable applications and exploring modern technologies through practical learning and development.
 
@@ -24,97 +22,91 @@ I enjoy backend engineering, full stack development, problem solving, and workin
 
 ### 🌱 Currently Learning
 
-* Java & OOPs
-* Backend Development
-* REST APIs
-* SQL & Databases
-* Artificial Intelligence
+- Java & OOPs  
+- Backend Development  
+- REST APIs  
+- SQL & Databases  
+- Artificial Intelligence  
 
 </td>
 
-<td width="48%" align="center">
+<td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
-<div align="center">
-
 # ⚡ Tech Stack
 
+<div align="center">
+
+<img width="100%" src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,nodejs,mysql,firebase,supabase,git,github,vscode,androidstudio,vite"/>
+
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,nodejs,mysql,firebase,supabase,git,github,vscode,androidstudio,vite"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="25%">
 
-### 💻 Languages
+<td width="50%" valign="top">
 
-Java
-C
-Python
-JavaScript
+## 💻 Languages
 
-</td>
-
-<td align="center" width="25%">
-
-### 🌐 Frontend
-
-HTML
-CSS
-JavaScript
-Vite
+- Java  
+- C  
+- Python  
+- JavaScript  
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### ⚙️ Backend
+## 🌐 Frontend
 
-Node.js
-REST APIs
-Backend Development
+- HTML  
+- CSS  
+- JavaScript  
+- Vite  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚙️ Backend
+
+- Node.js  
+- REST APIs  
+- Backend Development  
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🗄️ Database
+## 🗄️ Database
 
-MySQL
-Firebase
-Supabase
+- MySQL  
+- Firebase  
+- Supabase  
 
 </td>
+
 </tr>
 </table>
 
-</div>
+---
 
-<br>
+# 🧰 Tools & Platforms
 
 <div align="center">
-
-### 🧰 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
 
@@ -136,28 +128,29 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=OmkarAndhale1&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarAndhale1&theme=tokyonight"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=OmkarAndhale1&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarAndhale1&theme=tokyonight"/>
 
 </div>
 
-
-
-
+---
 
 # 🚀 Current Focus
 
-<table>
+<table align="center">
 <tr>
+
 <td align="center" width="33%">
 
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="52"/>
@@ -187,16 +180,15 @@ Frontend • Backend • Database
 AI Tools • Integrations
 
 </td>
+
 </tr>
 </table>
 
-</div>
-
 ---
 
-<div align="center">
-
 # 🌍 Open Source Journey
+
+<div align="center">
 
 🚀 Participating in **GirlScript Summer of Code 2026**
 
@@ -210,46 +202,35 @@ AI Tools • Integrations
 
 ---
 
-<div align="center">
-
 # 🎯 Goals for 2026
 
-</div>
-
-<br>
-
 <div align="center">
 
-✅ Build impactful full stack projects
-✅ Improve backend development skills
-✅ Contribute consistently to open source
-✅ Create professional portfolio website
-✅ Prepare for internships & hackathons
+✅ Build impactful full stack projects  
+✅ Improve backend development skills  
+✅ Contribute consistently to open source  
+✅ Create professional portfolio website  
+✅ Prepare for internships & hackathons  
 
 </div>
 
 ---
-
-<div align="center">
-
-
-</div>
-
----
-
-<div align="center">
 
 # 🤝 Connect With Me
 
-<br>
+<div align="center">
 
 <a href="https://github.com/OmkarAndhale1">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
 <a href="https://www.linkedin.com/in/omkarandhale">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="mailto:omkarandhale01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
