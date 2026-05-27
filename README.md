@@ -1,44 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=260&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00C9FF&text=Omkar%20Andhale&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source&descAlignY=64&descSize=20"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Omkar%20Andhale&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source&descAlignY=58&descSize=20"/>
+
+</div>
+
+<h3 align="center">
+Engineering Student • Java Full Stack Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Engineering+Student+at+NHITM+%F0%9F%8E%93;Java+Full+Stack+Developer+(Learning)+%E2%98%95;Artificial+Intelligence+Enthusiast+%F0%9F%A4%96;Backend+Development+%7C+Web+Development+%7C+DSA+%F0%9F%9A%80;Building+Projects+and+Growing+Every+Day+%F0%9F%92%AA"/>
+Passionate about building modern applications, exploring AI, and growing through real-world development 🚀
 </p>
 
-<p align="center">
-  <a href="https://github.com/OmkarAndhale1">
-    <img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&color=00C9FF&labelColor=000000"/>
-  </a>
+<div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=OmkarAndhale1&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&labelColor=0F172A&color=38BDF8"/>
 
-  <img src="https://img.shields.io/github/stars/OmkarAndhale1?style=for-the-badge&color=00C9FF&labelColor=000000"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=OmkarAndhale1&style=for-the-badge&color=1E40AF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer+(Learning);Artificial+Intelligence+Enthusiast;Web+Development+%7C+Backend+Development;DSA+%7C+Problem+Solving+%7C+Open+Source"/>
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-```yaml id="k82h3x"
+```yaml id="p8xk31"
 Name: Omkar Andhale
-Role: Engineering Student & Aspiring Developer
-College: New Horizon Institute of Technology & Management
-University: Mumbai University
+Education: Engineering Student
+College: NHITM, Mumbai University
 Graduation: 2028
 
 Interests:
   - Java Full Stack Development
   - Artificial Intelligence
-  - Backend Development
-  - Open Source Contribution
-  - Problem Solving & DSA
+  - Backend Engineering
+  - Web Development
+  - Open Source
 
-Currently Learning:
+Currently Exploring:
   - Advanced Java
-  - Backend Architecture
-  - SQL & Database Systems
   - REST APIs
+  - SQL & Databases
+  - Full Stack Development
   - AI Integrations
 ```
 
@@ -46,141 +57,139 @@ Currently Learning:
 
 # ⚡ Tech Stack
 
-## 💻 Programming Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css" />
-</p>
+### 💻 Programming Languages
 
----
-
-## 🌐 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,vite" />
-</p>
-
-<p align="center">
-Responsive UI • Web Interfaces • Frontend Fundamentals
-</p>
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css"/>
 
 ---
 
-## ⚙️ Backend Development
+### 🌐 Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
-
-<p align="center">
-Node.js • REST APIs • Backend Fundamentals
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,vite"/>
 
 ---
 
-## 🗄️ Databases & Backend Services
+### ⚙️ Backend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
-</p>
-
-<p align="center">
-MySQL • Firebase • Supabase
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
 ---
 
-## 🧰 Tools & Platforms
+### 🗄️ Databases & Services
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase"/>
 
-<p align="center">
-Git • GitHub • VS Code • Android Studio • Cursor AI
-</p>
+---
+
+### 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarAndhale1&theme=tokyonight"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarAndhale1&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarAndhale1&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🌍 Open Source Journey
 
-## 🚀 GirlScript Summer of Code 2026
+<div align="center">
 
-* 🌱 Exploring Open Source Collaboration
-* 🛠️ Solving Beginner-Friendly Issues
-* 📚 Learning Real-World Git Workflows
-* 💡 Improving Development Consistency
+🚀 Participating in **GirlScript Summer of Code 2026**
+🌱 Exploring collaborative development workflows
+🛠️ Working on beginner-friendly contributions
+📚 Learning real-world Git & GitHub practices
+
+</div>
 
 ---
 
 # 🎯 Current Focus
 
-```diff id="0b8nd9"
-+ Java & Object-Oriented Programming
-+ Full Stack Development
-+ Backend Technologies
-+ Artificial Intelligence
-+ DSA & Problem Solving
-+ Open Source Contributions
-```
+<div align="center">
+
+☕ Java & OOPs
+🌐 Full Stack Development
+⚙️ Backend Technologies
+🤖 Artificial Intelligence
+🧠 DSA & Problem Solving
+
+</div>
 
 ---
 
 # 🚀 Goals for 2026
 
-* ✅ Build Strong Full Stack Projects
-* ✅ Create Professional Portfolio
-* ✅ Improve Open Source Contributions
-* ✅ Strengthen Problem Solving Skills
-* ✅ Learn AI Integrations
-* ✅ Prepare for Internships & Hackathons
+<div align="center">
+
+✅ Build impactful projects
+✅ Strengthen backend development
+✅ Improve open source contributions
+✅ Create professional portfolio
+✅ Prepare for internships & hackathons
+
+</div>
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/OmkarAndhale1">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/omkarandhale">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://github.com/OmkarAndhale1">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="mailto:omkarandhale01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/omkarandhale">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:omkarandhale01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00C9FF"/>
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1E3A8A,100:38BDF8"/>
+
+</div>
