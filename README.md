@@ -142,7 +142,7 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <br><br>
 
-<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=OmkarAndhale1&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=OmkarAndhale1&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
