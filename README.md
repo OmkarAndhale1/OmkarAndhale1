@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:000000,30:0F172A,70:1E3A8A,100:38BDF8&text=Omkar%20Andhale&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=60&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:000000,35:0F172A,70:1E3A8A,100:38BDF8&text=Omkar%20Andhale&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=60&descSize=22"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Student+at+NHITM;Building+Modern+Scalable+Applications;Java+Full+Stack+Developer+(Learning);Artificial+Intelligence+Enthusiast;Backend+Development+%7C+DSA+%7C+Open+Source"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Student+at+NHITM;Java+Full+Stack+Developer+(Learning);Artificial+Intelligence+Enthusiast;Backend+Development+%7C+DSA+%7C+Open+Source;Building+Projects+and+Learning+Every+Day"/>
 
 <br><br>
 
@@ -14,23 +14,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=OmkarAndhale1&style=for-the-badge&color=2563EB"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Learning-2563EB?style=for-the-badge&labelColor=000000"/>
-
 </div>
 
 ---
 
-<div align="center">
-
 # 💫 About Me
-
-</div>
 
 <table>
 <tr>
 <td width="58%">
 
-```yaml id="9jv4sq"
+```yaml id="l9v3mk"
 Name: Omkar Andhale
 Location: Mumbai, India
 
@@ -56,13 +50,9 @@ Currently Learning:
 
 </td>
 
-<td width="42%">
+<td width="42%" align="center">
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-</div>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
 </td>
 </tr>
@@ -70,21 +60,9 @@ Currently Learning:
 
 ---
 
-<div align="center">
-
 # ⚡ Tech Stack
 
-</div>
-
-<br>
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,nodejs,mysql,firebase,supabase,git,github,vscode,androidstudio,vite"/>
-
-</div>
-
-<br>
 
 <table>
 <tr>
@@ -92,10 +70,11 @@ Currently Learning:
 
 ### 💻 Languages
 
-Java
-C
-Python
-JavaScript
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript"/>
+
+<br><br>
+
+Java • C • Python • JavaScript
 
 </td>
 
@@ -103,10 +82,11 @@ JavaScript
 
 ### 🌐 Frontend
 
-HTML
-CSS
-JavaScript
-Vite
+<img src="https://skillicons.dev/icons?i=html,css,javascript,vite"/>
+
+<br><br>
+
+HTML • CSS • JavaScript • Vite
 
 </td>
 
@@ -114,33 +94,43 @@ Vite
 
 ### ⚙️ Backend
 
-Node.js
-REST APIs
-Backend Fundamentals
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<br><br>
+
+Node.js • REST APIs
 
 </td>
 
 <td align="center" width="25%">
 
-### 🗄️ Database
+### 🗄️ Databases
 
-MySQL
-Firebase
-Supabase
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase"/>
+
+<br><br>
+
+MySQL • Firebase • Supabase
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<div align="center">
+### 🧰 Tools & Platforms
 
-# 📊 GitHub Analytics
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
+
+<br><br>
+
+Git • GitHub • VS Code • Android Studio • Cursor AI
 
 </div>
 
-<br>
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -148,27 +138,15 @@ Supabase
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-</div>
+<br><br>
 
-<br>
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<div align="center">
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarAndhale1&theme=tokyonight"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=OmkarAndhale1&theme=algolia&no-frame=true&row=1&column=7"/>
 
@@ -176,13 +154,7 @@ Supabase
 
 ---
 
-<div align="center">
-
 # 🚀 Current Focus
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -224,13 +196,7 @@ AI Tools • Integrations
 
 ---
 
-<div align="center">
-
 # 🌍 Open Source Journey
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -243,13 +209,7 @@ AI Tools • Integrations
 
 ---
 
-<div align="center">
-
 # 🎯 Goals for 2026
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -263,13 +223,7 @@ AI Tools • Integrations
 
 ---
 
-<div align="center">
-
 # 🤝 Connect With Me
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -299,6 +253,6 @@ AI Tools • Integrations
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,30:0F172A,70:1E3A8A,100:38BDF8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,35:0F172A,70:1E3A8A,100:38BDF8"/>
 
 </div>
