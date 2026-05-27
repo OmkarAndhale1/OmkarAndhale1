@@ -1,41 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,50:004e92,100:00C9FF&text=Omkar%20Andhale&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=260&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00C9FF&text=Omkar%20Andhale&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source&descAlignY=64&descSize=20"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Engineering+Student+at+NHITM+%F0%9F%8E%93;Java+Full+Stack+Developer+(Learning)+%E2%98%95;Artificial+Intelligence+Enthusiast+%F0%9F%A4%96;Backend+Development+%7C+Web+Development+%7C+DSA+%F0%9F%9A%80;Building+Projects+and+Growing+Every+Day+%F0%9F%92%AA"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/OmkarAndhale1">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=Engineering+Student+at+NHITM+%F0%9F%8E%93;Java+Full+Stack+Developer+(Learning)+%E2%98%95;Artificial+Intelligence+Enthusiast+%F0%9F%A4%96;DSA+%7C+Web+Development+%7C+Open+Source+%F0%9F%9A%80;Building+Projects+%26+Growing+Every+Day+%F0%9F%92%AA"/>
+    <img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&color=00C9FF&labelColor=000000"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&color=00C9FF&labelColor=000000"/>
 
   <img src="https://komarev.com/ghpvc/?username=OmkarAndhale1&style=for-the-badge&color=blueviolet"/>
+
+  <img src="https://img.shields.io/github/stars/OmkarAndhale1?style=for-the-badge&color=00C9FF&labelColor=000000"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-```yaml id="1d2ha7"
+```yaml id="k82h3x"
 Name: Omkar Andhale
+Role: Engineering Student & Aspiring Developer
 College: New Horizon Institute of Technology & Management
 University: Mumbai University
 Graduation: 2028
 
-Currently Exploring:
+Interests:
   - Java Full Stack Development
   - Artificial Intelligence
   - Backend Development
-  - Open Source Contributions
-  - Data Structures & Algorithms
+  - Open Source Contribution
+  - Problem Solving & DSA
 
-Goals:
-  - Build Real-World Projects
-  - Become a Strong Full Stack Developer
-  - Contribute to Open Source
-  - Improve Problem Solving Skills
+Currently Learning:
+  - Advanced Java
+  - Backend Architecture
+  - SQL & Database Systems
+  - REST APIs
+  - AI Integrations
 ```
 
 ---
@@ -57,7 +61,7 @@ Goals:
 </p>
 
 <p align="center">
-Responsive UI • Frontend Fundamentals • Web Interfaces
+Responsive UI • Web Interfaces • Frontend Fundamentals
 </p>
 
 ---
@@ -115,7 +119,7 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarAndhale1&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarAndhale1&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -133,7 +137,7 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 # 🎯 Current Focus
 
-```diff id="x4fz7u"
+```diff id="0b8nd9"
 + Java & Object-Oriented Programming
 + Full Stack Development
 + Backend Technologies
@@ -144,12 +148,12 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 ---
 
-# 🚀 2026 Goals
+# 🚀 Goals for 2026
 
 * ✅ Build Strong Full Stack Projects
 * ✅ Create Professional Portfolio
 * ✅ Improve Open Source Contributions
-* ✅ Strengthen DSA & Problem Solving
+* ✅ Strengthen Problem Solving Skills
 * ✅ Learn AI Integrations
 * ✅ Prepare for Internships & Hackathons
 
@@ -178,5 +182,5 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:000428,50:004e92,100:00C9FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00C9FF"/>
 </p>
