@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=330&color=0:030712,40:111827,70:1D4ED8,100:38BDF8&text=Omkar%20Andhale&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=60&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1120,35:111827,70:1D4ED8,100:38BDF8&text=Omkar%20Andhale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=58&descSize=20"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Engineering+Student+at+NHITM;Building+Modern+Web+Applications;Java+Full+Stack+Developer+(Learning);Backend+Development+%7C+Artificial+Intelligence;DSA+%7C+Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&lines=Engineering+Student+at+NHITM;Java+Full+Stack+Developer+(Learning);Backend+Development+%7C+Web+Development;Artificial+Intelligence+Enthusiast"/>
 
 <br><br>
 
 <a href="https://github.com/OmkarAndhale1">
-<img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&labelColor=030712&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&labelColor=0B1120&color=2563EB"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=OmkarAndhale1&style=for-the-badge&color=2563EB"/>
@@ -20,39 +20,27 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%" valign="top">
 
 # 👨‍💻 About Me
 
-```yaml id="3m8vqa"
-Name: Omkar Andhale
-Location: Mumbai, India
+I’m an engineering student passionate about building modern applications, improving backend development skills, and exploring Artificial Intelligence through practical learning and real-world projects.
 
-Education:
-  College: NHITM
-  University: Mumbai University
-  Graduation: 2028
+Currently focused on strengthening full stack development fundamentals, problem solving, and open-source collaboration.
 
-Domains:
-  - Java Full Stack Development
-  - Backend Engineering
-  - Artificial Intelligence
-  - Web Development
-  - Open Source Contribution
+### 🌱 Current Learning Focus
 
-Currently Learning:
-  - Advanced Java
-  - REST APIs
-  - SQL & Databases
-  - Backend Systems
-  - AI Integrations
-```
+* Java & Object-Oriented Programming
+* Backend Development & REST APIs
+* SQL & Database Systems
+* Full Stack Web Development
+* AI Integrations & Tools
 
 </td>
 
-<td width="45%" align="center">
+<td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
 
 </td>
 </tr>
@@ -62,15 +50,9 @@ Currently Learning:
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
-</div>
-
 # ⚡ Tech Stack
 
 <br>
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,nodejs,mysql,firebase,supabase,git,github,vscode,androidstudio,vite"/>
 
@@ -108,13 +90,13 @@ Vite
 
 Node.js
 REST APIs
-Backend Development
+Backend Fundamentals
 
 </td>
 
 <td align="center" width="25%">
 
-### 🗄️ Databases
+### 🗄️ Database
 
 MySQL
 Firebase
@@ -139,12 +121,6 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 </div>
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
-</div>
 
 # 📊 GitHub Analytics
 
@@ -176,26 +152,26 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 # 🚀 Current Focus
 
-* ☕ Java & OOPs
-* 🌐 Full Stack Development
-* ⚙️ Backend Technologies
-* 🤖 Artificial Intelligence
-* 🧠 DSA & Problem Solving
+* Full Stack Development
+* Backend Engineering
+* Java Development
+* DSA & Problem Solving
+* AI Integrations
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-# 🌍 Open Source
+# 🌍 Open Source Journey
 
-* 🚀 GirlScript Summer of Code 2026
-* 🌱 Collaborative Development
-* 🛠️ Beginner-Friendly Contributions
-* 📚 GitHub Workflows & PRs
+* GirlScript Summer of Code 2026
+* Beginner-Friendly Contributions
+* GitHub Collaboration
+* Real-World Development Workflow
 
 </td>
 </tr>
@@ -203,23 +179,13 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
-</div>
-
 # 🎯 Goals for 2026
 
-<div align="center">
-
-✅ Build impactful full stack projects
-✅ Improve backend development skills
-✅ Contribute consistently to open source
-✅ Create professional developer portfolio
-✅ Prepare for internships & hackathons
-
-</div>
+* Build impactful full stack projects
+* Improve backend architecture skills
+* Contribute consistently to open source
+* Create a strong developer portfolio
+* Prepare for internships & hackathons
 
 ---
 
@@ -236,7 +202,7 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 <div align="center">
 
 <a href="https://github.com/OmkarAndhale1">
-<img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/omkarandhale">
@@ -253,7 +219,6 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=180&section=footer&color=0:030712,40:111827,70:1D4ED8,100:38BDF8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0B1120,35:111827,70:1D4ED8,100:38BDF8"/>
 
 </div>
-
