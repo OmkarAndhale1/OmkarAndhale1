@@ -134,17 +134,16 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OmkarAndhale1&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<br><br>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=github-dark&hide_border=true"/>
-
-</div>
 
 
 
