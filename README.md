@@ -240,7 +240,7 @@ AI Tools • Integrations
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
 
 </div>
 
