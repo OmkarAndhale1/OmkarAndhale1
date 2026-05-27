@@ -6,14 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Engineering+Student+at+NHITM;Building+Modern+Applications;Backend+Development+%7C+Web+Development;Artificial+Intelligence+Enthusiast;Learning+Through+Projects+and+Open+Source"/>
 
-<br><br>
-
-<a href="https://github.com/OmkarAndhale1">
-<img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&labelColor=000000&color=2563EB"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=OmkarAndhale1&style=for-the-badge&color=2563EB"/>
-
 </div>
 
 ---
@@ -142,21 +134,30 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarAndhale1&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<br><br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+<br><br>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarAndhale1&theme=github_dark"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarAndhale1&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
 # 🚀 Current Focus
 
 <table>
@@ -235,7 +236,7 @@ AI Tools • Integrations
 
 <div align="center">
 
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
 
 </div>
 
