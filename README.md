@@ -142,31 +142,21 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarAndhale1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
-
-<br><br>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarAndhale1&theme=github_dark"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarAndhale1&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=OmkarAndhale1&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 # 🚀 Current Focus
 
 <table>
