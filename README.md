@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,50:0F172A,100:1E40AF&text=Omkar%20Andhale&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-# Java Full Stack Developer • AI Enthusiast • Open Source
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Engineering+Student+at+NHITM;Backend+Development+%7C+Web+Development;Artificial+Intelligence+Enthusiast;Learning+Through+Projects+and+Open+Source"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=320&color=0:000000,25:0F172A,60:1E3A8A,100:38BDF8&text=Omkar%20Andhale&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=62&descSize=20"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Engineering+Student+at+NHITM;Building+Modern+Applications;Backend+Development+%7C+Web+Development;Artificial+Intelligence+Enthusiast;Learning+Through+Projects+and+Open+Source"/>
+
+<br><br>
+
 <a href="https://github.com/OmkarAndhale1">
-<img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&labelColor=020617&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/OmkarAndhale1?style=for-the-badge&logo=github&labelColor=000000&color=2563EB"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=OmkarAndhale1&style=for-the-badge&color=2563EB"/>
@@ -18,41 +18,49 @@
 
 ---
 
+<div align="center">
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I’m an engineering student passionate about building scalable applications, learning backend technologies, and exploring Artificial Intelligence through practical development and open-source collaboration.
+I’m an engineering student passionate about building scalable applications and exploring modern technologies through practical learning and development.
 
-I enjoy improving problem-solving skills, creating real-world projects, and continuously learning modern technologies.
+I enjoy backend engineering, full stack development, problem solving, and working on projects that strengthen real-world development skills.
 
-### 🌱 Currently Exploring
+### 🌱 Currently Learning
 
-* Java & Object-Oriented Programming
-* Backend Development & REST APIs
-* SQL & Database Systems
-* Full Stack Development
-* AI Integrations & Tools
+* Java & OOPs
+* Backend Development
+* REST APIs
+* SQL & Databases
+* Artificial Intelligence
 
 </td>
 
-<td width="45%" align="center">
+<td width="48%" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
+
+</div>
 
 <br>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,nodejs,mysql,firebase,supabase,git,github,vscode,androidstudio,vite"/>
 
@@ -60,9 +68,11 @@ I enjoy improving problem-solving skills, creating real-world projects, and cont
 
 <br>
 
+<div align="center">
+
 <table>
 <tr>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 💻 Languages
 
@@ -73,7 +83,7 @@ JavaScript
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 🌐 Frontend
 
@@ -84,7 +94,7 @@ Vite
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### ⚙️ Backend
 
@@ -94,9 +104,9 @@ Backend Development
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### 🗄️ Databases
+### 🗄️ Database
 
 MySQL
 Firebase
@@ -105,6 +115,8 @@ Supabase
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -124,17 +136,17 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 </div>
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff"/>
 
 <br><br>
 
@@ -148,42 +160,81 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 ---
 
+<div align="center">
+
+# 🚀 Current Focus
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-## 🚀 Current Focus
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="52"/>
 
-* Full Stack Development
-* Backend Engineering
-* Java Development
-* DSA & Problem Solving
-* Artificial Intelligence
+### Java Development
+
+OOPs • APIs • Backend
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-## 🌍 Open Source
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="52"/>
 
-* GirlScript Summer of Code 2026
-* Beginner-Friendly Contributions
-* GitHub Collaboration
-* Real-World Development Workflow
+### Full Stack
+
+Frontend • Backend • Database
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="52"/>
+
+### Artificial Intelligence
+
+AI Tools • Integrations
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🎯 Goals for 2026
+<div align="center">
 
-* Build impactful full stack projects
-* Improve backend development skills
-* Contribute consistently to open source
-* Create professional portfolio website
-* Prepare for internships & hackathons
+# 🌍 Open Source Journey
+
+🚀 Participating in **GirlScript Summer of Code 2026**
+
+🌱 Exploring collaborative development workflows
+
+🛠️ Solving beginner-friendly issues and improving development consistency
+
+📚 Learning real-world GitHub contribution practices
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎯 Goals for 2026
+
+</div>
+
+<br>
+
+<div align="center">
+
+✅ Build impactful full stack projects
+✅ Improve backend development skills
+✅ Contribute consistently to open source
+✅ Create professional portfolio website
+✅ Prepare for internships & hackathons
+
+</div>
 
 ---
 
@@ -195,12 +246,14 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
 
+# 🤝 Connect With Me
+
+<br>
+
 <a href="https://github.com/OmkarAndhale1">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/omkarandhale">
@@ -217,6 +270,6 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0F172A,100:1E40AF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=160&section=footer&color=0:000000,25:0F172A,60:1E3A8A,100:38BDF8"/>
 
 </div>
