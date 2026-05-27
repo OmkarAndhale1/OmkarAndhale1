@@ -20,6 +20,14 @@
 
 <div align="center">
 
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
 <table>
 <tr>
 <td width="52%" valign="top">
@@ -233,14 +241,6 @@ AI Tools • Integrations
 ✅ Contribute consistently to open source
 ✅ Create professional portfolio website
 ✅ Prepare for internships & hackathons
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
 
 </div>
 
