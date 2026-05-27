@@ -136,19 +136,16 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmkarAndhale1&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=OmkarAndhale1&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAndhale1&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarAndhale1&theme=tokyonight"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAndhale1&theme=github-dark&hide_border=true"/>
 
 </div>
+
 
 
 # 🚀 Current Focus
