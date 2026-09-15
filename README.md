@@ -14,21 +14,23 @@
 
 <table>
 <tr>
+
 <td width="52%" valign="top">
 
 # 👨‍💻 About Me
 
-I’m an engineering student passionate about building scalable applications and exploring modern technologies through practical learning and development.
+I'm an engineering student passionate about building modern applications and exploring emerging technologies through practical learning and development.
 
-I enjoy backend engineering, full stack development, problem solving, and working on projects that strengthen real-world development skills.
+I enjoy backend engineering, full-stack development, problem solving, and building projects that strengthen real-world development skills.
 
 ### 🌱 Currently Learning
 
-* Java & OOPs
-* Backend Development
-* REST APIs
-* SQL & Databases
-* Artificial Intelligence
+- Java & OOP
+- Backend Development
+- REST APIs
+- SQL & Databases
+- Artificial Intelligence
+- DSA
 
 </td>
 
@@ -37,6 +39,7 @@ I enjoy backend engineering, full stack development, problem solving, and workin
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -48,29 +51,22 @@ I enjoy backend engineering, full stack development, problem solving, and workin
 
 # ⚡ Tech Stack
 
-</div>
-
 <br>
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,nodejs,mysql,firebase,supabase,git,github,vscode,androidstudio,vite"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 💻 Languages
 
-Java
-C
-Python
+Java  
+C  
+Python  
 JavaScript
 
 </td>
@@ -79,9 +75,9 @@ JavaScript
 
 ### 🌐 Frontend
 
-HTML
-CSS
-JavaScript
+HTML  
+CSS  
+JavaScript  
 Vite
 
 </td>
@@ -90,8 +86,8 @@ Vite
 
 ### ⚙️ Backend
 
-Node.js
-REST APIs
+Node.js  
+REST APIs  
 Backend Development
 
 </td>
@@ -100,19 +96,16 @@ Backend Development
 
 ### 🗄️ Database
 
-MySQL
-Firebase
+MySQL  
+Firebase  
 Supabase
 
 </td>
+
 </tr>
 </table>
 
-</div>
-
 <br>
-
-<div align="center">
 
 ### 🧰 Tools & Platforms
 
@@ -150,21 +143,22 @@ Git • GitHub • VS Code • Android Studio • Cursor AI
 
 </div>
 
-
-
-
+---
 
 # 🚀 Current Focus
 
+<div align="center">
+
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="52"/>
 
 ### Java Development
 
-OOPs • APIs • Backend
+OOP • APIs • Backend
 
 </td>
 
@@ -187,6 +181,7 @@ Frontend • Backend • Database
 AI Tools • Integrations
 
 </td>
+
 </tr>
 </table>
 
@@ -214,24 +209,42 @@ AI Tools • Integrations
 
 # 🎯 Goals for 2026
 
-</div>
-
 <br>
 
-<div align="center">
+<table>
+<tr>
 
-✅ Build impactful full stack projects
+<td align="center">
+
+✅ Build impactful full-stack projects
+
+</td>
+
+<td align="center">
+
 ✅ Improve backend development skills
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
 ✅ Contribute consistently to open source
-✅ Create professional portfolio website
+
+</td>
+
+<td align="center">
+
 ✅ Prepare for internships & hackathons
 
-</div>
+</td>
 
----
+</tr>
 
-<div align="center">
-
+</table>
 
 </div>
 
